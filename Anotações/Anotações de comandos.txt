@@ -5,3 +5,6 @@ Enviar pasta criada na máquina para o repositório: git add . ou git add -A
 Commit de arquivo: git commit -m "mensagem"
 
 Dar push nos arquivos no repositório: git push origin main
+
+Corrigir erro de identificação: git config --global user.email "meuemail@gmail.com"
+git config --global user.name "Nome"
