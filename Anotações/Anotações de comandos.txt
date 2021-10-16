@@ -1,3 +1,7 @@
 Comandos ninjas no Git Bash
 
 Enviar pasta criada na máquina para o repositório: git add . ou git add -A
+
+Commit de arquivo: git commit -m "mensagem"
+
+Dar push nos arquivos no repositório: git push origin main
