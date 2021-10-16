@@ -1,0 +1,3 @@
+Comandos ninjas no Git Bash
+
+Enviar pasta criada na máquina para o repositório: git add . ou git add -A
